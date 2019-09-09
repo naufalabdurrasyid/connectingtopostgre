@@ -1,0 +1,14 @@
+{
+  "name": "tespostgre",
+  "version": "1.0.0",
+  "description": "tes",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "naufalrasyid",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^7.12.1"
+  }
+}
